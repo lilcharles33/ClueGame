@@ -1,6 +1,4 @@
 // authors: Cameron Kuan and Nathan Beveridge
-// aDDED comment to make sure things work
-// anoter one 
 
 package tests;
 
