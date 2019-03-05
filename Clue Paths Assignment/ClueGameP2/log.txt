@@ -1,0 +1,41 @@
+commit 1ec77d97478e20ea8587df7710179f08569d8ce1
+Author: Cameron Kuan <lilcharles33@Camerons-MacBook-Pro.local>
+Date:   Mon Mar 4 23:18:19 2019 -0700
+
+    Added functionality to IntBoard, now all tests pass
+
+commit 6a7809e1e2a44d07b2df97939d6ed04240083e51
+Author: Cameron Kuan <lilcharles33@Camerons-MacBook-Pro.local>
+Date:   Mon Mar 4 23:17:11 2019 -0700
+
+    Added failing test, everything compiles but fails
+
+commit 510e67ffaffa2118e4a4a1a173fb1eb49084c57e
+Author: Nathan Beveridge <beveridge@mines.edu>
+Date:   Thu Feb 28 15:11:10 2019 -0700
+
+    Finished the thing
+
+commit 21a6514f8707ad8dd86244301ec7848519f9a7e6
+Author: Nathan Beveridge <beveridge@mines.edu>
+Date:   Thu Feb 28 15:04:01 2019 -0700
+
+    created junit thing
+
+commit b67d4f06813c8f30074ce005451726441f6e1997
+Author: Nathan Beveridge <beveridge@mines.edu>
+Date:   Thu Feb 28 14:45:41 2019 -0700
+
+    Added src
+
+commit be75bfc5f57f88c41d054fc1251dc80c26629775
+Author: Nathan Beveridge <beveridge@mines.edu>
+Date:   Thu Feb 28 14:39:33 2019 -0700
+
+    Added files previously untracked
+
+commit 1bec3a21e9520ff9d16865d0c06a9cea412df6cd
+Author: Nathan Beveridge <beveridge@mines.edu>
+Date:   Thu Feb 28 14:17:35 2019 -0700
+
+    first commit
